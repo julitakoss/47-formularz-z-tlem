@@ -1,0 +1,25 @@
+.background{
+    background-color: lightsalmon;
+    background-image: url(obrazek_3.png);
+}
+.ball{
+    color: red;
+}
+.span{
+    color: yellowgreen;
+}
+.name{
+    background-color: lightskyblue;
+}
+.surname{
+    background-color: lightyellow;
+}
+.phone{
+    background-color: lightgreen;
+}
+.mail{
+    background-color: lightcoral;
+}
+.yes{
+    background-color: lightsteelblue;
+}
